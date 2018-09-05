@@ -1,0 +1,15 @@
+{
+  "name": "typescript-in-5minutes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/massat/typescript-in-5minutes",
+  "author": "massat <masato.hirai@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^3.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
+}
